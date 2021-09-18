@@ -1,4 +1,4 @@
-# Step-by-step guide to create a new node server with typescript project
+# Step-by-step guide to create a new node server with typescript
 
 1. Create project folder and enter it
 ```bash
